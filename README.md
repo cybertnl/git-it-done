@@ -3,4 +3,10 @@ In this module, you'll work with Amiko, a fellow web developer whom you met at a
 
 And that’s where you come in!
 
+git add -A
+git commit -m "initial files"
+git push origin main 
+
+git checkout -b develop
+git checkout -b feature/user-repos
 
